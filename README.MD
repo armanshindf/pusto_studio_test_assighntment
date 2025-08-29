@@ -1,4 +1,4 @@
-##Задание для Pusto studio
+## Задание для Pusto studio
 
 Текст задания: https://axiomatic-mine-6ba.notion.site/Python-916c8e3d5d6c4006b4b83a0081dc03a8
 
